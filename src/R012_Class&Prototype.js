@@ -33,7 +33,7 @@ componentDidMount(){
     cnt2.showNum();
 }
 
-render(){
+render(){ 
     return (
         <h2> [This is Render Fucntion ]</h2>
     )
