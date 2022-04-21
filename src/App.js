@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import ArrowFunction from './R013_ArrowFunction';
+import Map from './R015_Map';
 
 function App() {
   return (
     <div>
    <h1>Start React 200!</h1>
       <p>HTML 적용하기</p>
-      <ArrowFunction/>
+      <Map/>
     </div>
     
    );
